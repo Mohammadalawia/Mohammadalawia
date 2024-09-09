@@ -24,16 +24,18 @@ Engineering code also gets me immersed and engaged without feeling time, I love 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+### DataBase
+[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![NoSQL](https://img.shields.io/badge/NoSQL-F29111?style=for-the-badge&logo=nosql&logoColor=white)](https://en.wikipedia.org/wiki/NoSQL)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+
 ### Soft Skills
 
 - Communication
 - Team Collaboration
 - Mentorship
 
-
-## ⭐️ GitHub Stats
-
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammadalawia&show_icons=true&theme=radical)
 
 ## 📊 Most Used Languages
 
